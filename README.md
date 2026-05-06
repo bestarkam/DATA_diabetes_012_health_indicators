@@ -14,7 +14,9 @@ This project focuses on the predictive analysis of health indicators related to 
 ```
 
 ## Data
-The dataset used is `diabetes_012_health_indicators_BRFSS2015.csv`. It contains approximately 253,680 entries with 22 variables, including:
+The dataset used in this project is the **Diabetes Health Indicators Dataset**, which can be downloaded from [Kaggle](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset).
+
+The specific file used is `diabetes_012_health_indicators_BRFSS2015.csv`. It contains approximately 253,680 entries with 22 variables, including:
 - **Target Variable (`Diabetes_012`)**: 0 = no diabetes, 1 = prediabetes, 2 = diabetes.
 - **Key Indicators**: HighBP (hypertension), HighChol (high cholesterol), BMI, Smoker, Stroke, HeartDiseaseorAttack, PhysActivity, etc.
 
