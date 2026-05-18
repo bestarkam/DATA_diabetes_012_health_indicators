@@ -38,4 +38,4 @@ pip install -r requirements.txt
 
 ## Technologies Used
 - **Language**: Python
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost.
+- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
